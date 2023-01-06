@@ -1,0 +1,21 @@
+body, h1{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+body, .container{
+    background-color: aquamarine;
+    margin: 0;
+}
+.container{
+    width: 50vw;
+    margin: 15px auto;
+    background-color: wheat;
+    padding: 15px 15px;
+    border-radius: 8px;
+    box-shadow: 45px;
+    
+
+}
